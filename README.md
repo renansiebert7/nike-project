@@ -7,7 +7,8 @@
 <h3> Projeto fictício desenvolvido para praticar HTML, CSS e JavaScript, apresentando um modelo de tênis Nike.
 O usuário pode alternar entre as cores verde, azul e rosa, o tênis e o fundo mudam de acordo.
 O projeto foi feito antes do DevClub com base em lives do Rodolfo Mori no YouTube.
-
+<br>
+<br>
 ⚠️ Observação: Este projeto não é responsivo para dispositivos móveis. </h3>
 <br>
 <br>

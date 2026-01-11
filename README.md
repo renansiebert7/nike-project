@@ -14,7 +14,7 @@ O projeto foi feito antes do DevClub com base em lives do Rodolfo Mori no YouTub
 <br>
 Link do Projeto:
 <br>
-https://renansiebert7.github.io/nike-project/
+<a href="https://renansiebert7.github.io/nike-project/">👉 Clique aqui para visualizar</a>
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/renansiebert7/nike-project/87b29be3a9b810091c5de9e9494ffda71fe1ab37/nike%20read.png">
